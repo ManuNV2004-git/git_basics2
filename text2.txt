@@ -1,1 +1,2 @@
-testing case 2
+test case 2 
+updating the file
